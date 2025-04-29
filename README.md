@@ -1,1 +1,1 @@
-# Dezvoltarea-unui-sistem-inteligent-de-control-pentru-o-locuinta
+[# Dezvoltarea-unui-sistem-inteligent-de-control-pentru-o-locuinta](https://valilazar709.atlassian.net/jira/software/c/projects/PROIECT/boards/67/backlog?atlOrigin=eyJpIjoiOTIwMDk1NWNlOGU3NDI4MDkxMGZlMWQ4Yzk3YmFkODQiLCJwIjoiaiJ9)
